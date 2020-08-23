@@ -1,0 +1,2 @@
+model_checkpoint_path: "teeth_classifier_3"
+all_model_checkpoint_paths: "teeth_classifier_3"

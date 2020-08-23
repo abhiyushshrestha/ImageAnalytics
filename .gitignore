@@ -1,0 +1,4 @@
+*.dat
+/data
+.txt
+__pycache__
